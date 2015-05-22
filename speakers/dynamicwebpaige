@@ -1,0 +1,9 @@
+# Software for Introduction to Game Development with Clojure
+- [Leiningen](http://leiningen.org/#install "Leiningen")
+- [Light Table](http://lighttable.com/ "Light Table")
+- [NightMod](https://sekao.net/nightmod/ "NightMod")
+- [Java 7 or above](https://www.java.com/en/download/manual.jsp "Java 7 or above")
+
+Would be great if you could get it all downloaded and installed on your machines on Friday morning - but if you're having difficulties, never fear!  We'll make sure that everyone's environment is properly configured. We'll also be explaining what these tools are, and why they would be useful for game development with Clojure, and for software development in general.
+
+Looking forward to seeing y'all!
